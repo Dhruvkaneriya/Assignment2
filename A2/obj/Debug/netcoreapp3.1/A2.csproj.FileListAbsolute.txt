@@ -1,0 +1,14 @@
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\Assignment2\A2\bin\Debug\netcoreapp3.1\A2.exe
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\Assignment2\A2\bin\Debug\netcoreapp3.1\A2.deps.json
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\Assignment2\A2\bin\Debug\netcoreapp3.1\A2.runtimeconfig.json
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\Assignment2\A2\bin\Debug\netcoreapp3.1\A2.runtimeconfig.dev.json
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\Assignment2\A2\bin\Debug\netcoreapp3.1\A2.dll
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\Assignment2\A2\bin\Debug\netcoreapp3.1\A2.pdb
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\Assignment2\A2\obj\Debug\netcoreapp3.1\A2.csproj.AssemblyReference.cache
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\Assignment2\A2\obj\Debug\netcoreapp3.1\A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\Assignment2\A2\obj\Debug\netcoreapp3.1\A2.AssemblyInfoInputs.cache
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\Assignment2\A2\obj\Debug\netcoreapp3.1\A2.AssemblyInfo.cs
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\Assignment2\A2\obj\Debug\netcoreapp3.1\A2.csproj.CoreCompileInputs.cache
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\Assignment2\A2\obj\Debug\netcoreapp3.1\A2.dll
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\Assignment2\A2\obj\Debug\netcoreapp3.1\A2.pdb
+C:\Users\DhruvDK\Documents\Cambrian\IOT1026\Repositories\Assignment2\A2\obj\Debug\netcoreapp3.1\A2.genruntimeconfig.cache
