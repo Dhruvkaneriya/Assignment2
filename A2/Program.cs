@@ -55,23 +55,43 @@ namespace A2
 			return pickedCards;
 		}
 
+		enum Values
+		{ 
+			Ace,
+			Jack,
+			Queen,
+			King,
+		}
+
 		private static string RandomValue()
 		{
 			int value = random.Next(1, 14);
 			switch (value)
 			{
 				case 1:
-					return "Ace";
+					Values One = Values.Ace;
+					return One.ToString();
 				case 11:
-					return "Jack";
+					Values Eleven = Values.Jack;
+					return Eleven.ToString();
 				case 12:
-					return "Queen";
+					Values Twelve = Values.Queen;
+					return Twelve.ToString();
 				case 13:
-					return "King";
+					Values Thirteen = Values.King;
+					return Thirteen.ToString();
 				default:
 					// The integers 2 -> 10 can just be converted to a string
 					return value.ToString();
 			}
+		}
+
+		enum Suits
+		{
+			Clubs,
+			Diamonds,
+			Hearts,
+			Spades,
 		}
 
 		private static string RandomSuit()
@@ -80,13 +100,17 @@ namespace A2
 			switch (value)
 			{
 				case 1:
-					return "Clubs";
+					Suits C = Suits.Clubs;
+					return C.ToString();
 				case 2:
-					return "Diamonds";
+					Suits D = Suits.Diamonds;
+					return D.ToString();
 				case 3:
-					return "Hearts";
+					Suits H = Suits.Hearts;
+					return H.ToString();
 				default:
-					return "Spades";
+					Suits S = Suits.Spades;
+					return S.ToString();
 			}
 		}
 	}
